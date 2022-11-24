@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247982414999",
+    "project_id": "signin-47c52",
+    "storage_bucket": "signin-47c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247982414999:android:b92e0ce2917f2f51349dd2",
+        "android_client_info": {
+          "package_name": "com.example.nasiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247982414999-gds164gls314mo32odt686tvfd0a8rji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nasiya",
+            "certificate_hash": "b0a377490c2acc6e8e2bc7d86c4d2d5880881c52"
+          }
+        },
+        {
+          "client_id": "247982414999-fm4fm454322i9pr475v0ula4l724lsov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtPsHkEY4BkxfUQS8peMrkIMVaxn2lv6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247982414999-fm4fm454322i9pr475v0ula4l724lsov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
